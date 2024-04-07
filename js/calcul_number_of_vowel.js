@@ -1,4 +1,4 @@
-// Sommes des valeurs "values" quelque soit "value" > 0 divisibles par 3, 5, 7 jusqu'à la valeur N avec "value" < N
+// Sommes des number of vowel in word
 
 function test(value, expected) {
     if (countVowels(value) === expected) {
